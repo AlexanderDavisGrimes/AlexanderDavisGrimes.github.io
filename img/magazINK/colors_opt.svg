@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3856px" height="999px" viewBox="0 0 3856 999" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>colors</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="307.5" cy="308" rx="307.5" ry="308"></ellipse>
+        <linearGradient x1="0%" y1="100%" x2="123.970921%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#21D0F1" offset="0%"></stop>
+            <stop stop-color="#44E9D6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-9.09501888%" y1="-9.51116883%" x2="98.8228145%" y2="95.4834755%" id="linearGradient-4">
+            <stop stop-color="#21D0F1" offset="0%"></stop>
+            <stop stop-color="#44E9D6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="colors" transform="translate(-7.000000, 1.000000)">
+            <g id="Stacked-Group" transform="translate(2487.000000, 308.000000) rotate(180.000000) translate(-2487.000000, -308.000000) translate(1146.000000, 0.000000)">
+                <g id="board-3/color-5" transform="translate(2067.000000, 0.000000)" fill="#9B9B9B">
+                    <ellipse id="Oval-Copy" cx="307.625204" cy="308.125407" rx="307.625204" ry="308.125407"></ellipse>
+                </g>
+                <g id="board-3/color-3" fill="#F50A0A">
+                    <ellipse id="Oval-Copy-3" cx="307.625204" cy="308.125407" rx="307.625204" ry="308.125407"></ellipse>
+                </g>
+                <g id="board-3/color-1" transform="translate(1013.000000, 0.000000)" fill="#181E27">
+                    <ellipse id="Oval-Copy-4" cx="307.625204" cy="308.125407" rx="307.625204" ry="308.125407"></ellipse>
+                </g>
+            </g>
+            <g id="Group-5-Copy" transform="translate(125.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-3.910082, 0.000000)">
+                        <polygon id="Fill-1" fill="url(#linearGradient-3)" points="0 616 622.447775 616 622.447775 0 0 0"></polygon>
+                        <polygon id="Fill-3" fill="url(#linearGradient-4)" points="0 616 622.447775 616 622.447775 0 0 0"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="Call-out-#4" transform="translate(0.000000, 800.000000)" fill="#888890" font-family="OpenSans-Light, Open Sans" font-size="80" font-weight="300" line-spacing="90">
+                <text id="rgba-(-33,208,241,-1">
+                    <tspan x="41.6796875" y="86"></tspan>
+                    <tspan x="0" y="170.171875">rgba ( 33,208,241, 100)</tspan>
+                </text>
+            </g>
+            <g id="Call-out-#4-Copy" transform="translate(1017.000000, 800.000000)" fill="#888890" font-family="OpenSans-Light, Open Sans" font-size="80" font-weight="300" line-spacing="90">
+                <text id="rgba-(-155,155,155,">
+                    <tspan x="41.6796875" y="86"></tspan>
+                    <tspan x="0" y="170.171875">rgba ( 155,155,155, 100)</tspan>
+                </text>
+            </g>
+            <g id="Call-out-#4-Copy-2" transform="translate(2135.000000, 800.000000)" fill="#888890" font-family="OpenSans-Light, Open Sans" font-size="80" font-weight="300" line-spacing="90">
+                <text id="rgba-(-24,30,39,-100">
+                    <tspan x="41.6796875" y="86"></tspan>
+                    <tspan x="0" y="170.171875">rgba ( 24,30,39, 100)</tspan>
+                </text>
+            </g>
+            <g id="Call-out-#4-Copy-3" transform="translate(3089.000000, 810.000000)" fill="#888890" font-family="OpenSans-Light, Open Sans" font-size="80" font-weight="300" line-spacing="90">
+                <text id="rgba-(-245,10,10,-10">
+                    <tspan x="41.6796875" y="86"></tspan>
+                    <tspan x="0" y="170.171875">rgba ( 245,10,10, 100)</tspan>
+                </text>
+            </g>
+            <text id="#21D0F1" font-family="OpenSans-SemiBold, Open Sans" font-size="80" font-weight="500" line-spacing="90" fill="#888890">
+                <tspan x="264" y="789">#21D0F1</tspan>
+            </text>
+            <text id="#9B9B9B" font-family="OpenSans-SemiBold, Open Sans" font-size="80" font-weight="500" line-spacing="90" fill="#888890">
+                <tspan x="1280" y="789">#9B9B9B</tspan>
+            </text>
+            <text id="#181E27" font-family="OpenSans-SemiBold, Open Sans" font-size="80" font-weight="500" line-spacing="90" fill="#888890">
+                <tspan x="2345" y="789">#181E27</tspan>
+            </text>
+            <text id="#F50A0A" font-family="OpenSans-SemiBold, Open Sans" font-size="80" font-weight="500" line-spacing="90" fill="#888890">
+                <tspan x="3352" y="798">#F50A0A</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
