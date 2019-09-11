@@ -240,7 +240,6 @@ h3 {
   font-style: normal;
   font-size: 25px;
   line-height: 1.333333em;
-  letter-spacing: 0.0125em;
   padding: 0 20px;
   text-transform: none;
   color: #000000;
@@ -253,7 +252,6 @@ h5 {
   font-weight: 100;
   font-style: normal;
   line-height: 1.333333em;
-  letter-spacing: 0.0125em;
   text-transform: none;
   text-align: left;
   color: #000000;
