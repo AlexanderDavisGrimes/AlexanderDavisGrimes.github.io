@@ -235,12 +235,10 @@ h2 {
   font-family: "Montserrat-Bold" !important;
   font-style: normal;
   line-height: 1.333333em;
-  letter-spacing: 0.0125em;
   text-transform: none;
   text-align: center;
   color: #000000;
   margin-top: 0.67em;
-  margin-bottom: 0em;
 }
 
 h3 {
@@ -287,99 +285,44 @@ h5 {
 
 /* Hero/Body of splash page */
 #hero-container {
-  text-align: center;
-  min-height: 250px;
+  padding: 75px 20px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
   overflow: hidden;
 }
 
-#hero-content {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  z-index: 2;
-}
-
-#hero-content .title {
-  margin: 0;
-  margin-bottom: 0;
-  text-transform: uppercase;
-  display: inline-block;
-  position: relative;
-}
-
-#hero-content .title {
-  z-index: 1;
-  position: relative;
-  display: inline-block;
-  padding: 0.25em 0.4em;
-  color: #FFF;
-  margin: 0 0 0 0;
-}
-
-#hero-content .title:before {
-  background: #FC55CF;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  content: '';
+.hero-title {
+  color: #000000;
   display: block;
-  z-index: -1;
-}
-
-/* Individual Letters and Block Text */
-#hero-content .title {
-  display: flex;
-  justify-content: center;
-  margin: auto;
-  max-width: 95vw;
-  position: relative;
-}
-
-.title>span {
-  background-color: black;
-  display: block;
-  font-size: 10vw;
-  font-weight: 100;
-  line-height: 0.9em;
+  font-size: 14vw;
   letter-spacing: 0em;
-  margin: 0 .75vw;
-  max-height: 10vw;
-  padding: .15vw;
-}
-
-.title>span:nth-child(3n) {
-  padding-right: 1vw;
-  padding-top: 1vw;
-}
-
-.title>span:nth-child(5) {
-  background: transparent;
-  color: black;
-  font-size: 22vw;
-  padding: 0;
+  line-height: 0.9em;
+  margin-bottom: 0;
+  max-width: 100%;
   position: relative;
-  top: -2vw;
+  text-align: center;
+  text-transform: uppercase;
 }
 
-.title>span:nth-child(5)::before,
-.title>span:nth-child(5):after {
-  content: 'is';
-  font-size: 4vw;
-  font-weight: bold;
+.hero-subtitle {
+  font-size: 10vw;
+  color: #FFFFFF;
+  position: relative;
+  z-index: 1;
+}
+
+.hero-subtitle:before {
+  background: #212121;
+  content: '';
+  display: inline-block;
   position: absolute;
-  text-transform: none;
-  top: 6.3vw;
-}
-
-.title>span:nth-child(5):before {
-  left: -4.5vw;
-}
-
-.title>span:nth-child(5):after {
-  content: 'UI/UX';
-  right: -12.5vw;
+  height: 100%;
+  left: 0;
+  margin: auto;
+  top: 0;
+  width: 100%;
+  z-index: -1;
 }
 
 /* Portfolio Work Samples Page */
@@ -528,7 +471,6 @@ h5 {
 }
 
 /* Contact Web Form Styling */
-
 .contact-container {
   padding: 75px 20px;
   max-width: 1200px;
@@ -672,13 +614,6 @@ footer {
     color: #000000;
   }
 
-  #hero-content {
-    top: 50%;
-    width: 100%;
-    display: block;
-    z-index: 2;
-  }
-
   #work {
     margin-left: auto;
     margin-right: auto;
@@ -712,6 +647,47 @@ footer {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  #hero-container {
+    padding: 200px 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+  }
+
+  .hero-title {
+    color: #000000;
+    display: block;
+    font-size: 10vw;
+    letter-spacing: 0em;
+    line-height: 0.9em;
+    margin-bottom: 0;
+    max-width: 100%;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .hero-subtitle {
+    font-size: 4vw;
+    color: #FFFFFF;
+    position: relative;
+    z-index: 1;
+  }
+
+  .hero-subtitle:before {
+    background: #212121;
+    content: '';
+    display: inline-block;
+    position: absolute;
+    height: 100%;
+    left: 0;
+    margin: auto;
+    top: 0;
+    width: 100%;
+    z-index: -1;
   }
 
   .card {
@@ -979,12 +955,11 @@ footer {
     /* Sets the font size to 20px */
   }
 
-  .herocontainer {
-    max-width: 1200px;
-    padding-top: 10%;
-    padding-bottom: 10%;
+  #hero-container {
+    padding: 200px 20px;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden;
   }
 
   #about {
