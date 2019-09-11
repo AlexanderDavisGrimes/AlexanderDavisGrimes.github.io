@@ -229,7 +229,6 @@ h1 {
 }
 
 h2 {
-  font-weight: 300;
   font-style: normal;
   line-height: 1.333333em;
   text-transform: none;
@@ -407,7 +406,7 @@ h5 {
 .text-container {
   font-family: "Lato;
   font-size: .90em;
-  font-weight: 200;
+  font-weight: 300;
   font-style: normal;
   line-height: 1.333333em;
   letter-spacing: 0.0125em;
