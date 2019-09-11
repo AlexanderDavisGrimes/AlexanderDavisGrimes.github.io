@@ -85,7 +85,7 @@ header::after {
   left: 0;
   right: 0;
   bottom: 0;
-  z-index: 8888;
+  z-index: 1;
   background: rgba(0, 0, 0, 0.9);
 }
 
@@ -134,7 +134,7 @@ header::after {
   position: absolute;
   top: .90em;
   right: .5em;
-  z-index: 9999;
+  z-index: 2;
   font-style: normal;
 }
 
@@ -217,7 +217,6 @@ button:hover {
 
 /* Header Styling */
 h1 {
-  font-weight: 500;
   font-size: 50px;
   text-align: center;
   line-height: 1.333333em;
@@ -303,7 +302,7 @@ h5 {
   font-size: 10vw;
   color: #FFFFFF;
   position: relative;
-  z-index: 1;
+  z-index: -1;
 }
 
 .hero-subtitle:before {
