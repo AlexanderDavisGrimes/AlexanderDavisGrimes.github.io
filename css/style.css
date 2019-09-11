@@ -506,7 +506,7 @@ input[type=submit] {
   border-color: #000000;
   background: #000000;
   color: #ffffff;
-  font-family: "Montserrat-bold";
+  font-family: "Montserrat";
   font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -530,6 +530,7 @@ footer {
 }
 
 .footer-text {
+  font-size: 12px;
   font-weight: 200;
   font-style: normal;;
   line-height: 1.333333em;
@@ -874,7 +875,7 @@ footer {
     border-color: #000000;
     background: #000000;
     color: #ffffff;
-    font-family: "Montserrat-bold";
+    font-family: "Montserrat";
     font-weight: 800;
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -900,6 +901,7 @@ footer {
   /* Footer Style */
   .footer-text {
     font-weight: 200;
+    font-size: 14px;
     font-style: normal;
     line-height: 1.333333em;
     letter-spacing: 0.0125em;
