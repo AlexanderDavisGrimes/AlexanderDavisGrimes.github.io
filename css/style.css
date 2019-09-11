@@ -229,6 +229,7 @@ h1 {
 }
 
 h2 {
+  font-weight: 300;
   font-style: normal;
   line-height: 1.333333em;
   text-transform: none;
@@ -238,7 +239,6 @@ h2 {
 }
 
 h3 {
-  font-weight: 200;
   font-style: normal;
   font-size: 25px;
   line-height: 1.333333em;
@@ -251,8 +251,8 @@ h3 {
 }
 
 h5 {
-  font-family: "Lato-Light";
-  font-weight: 400;
+  font-family: "Lato";
+  font-weight: 100;
   font-style: normal;
   line-height: 1.333333em;
   letter-spacing: 0.0125em;
@@ -405,9 +405,9 @@ h5 {
 }
 
 .text-container {
-  font-family: "Lato-Light";
+  font-family: "Lato;
   font-size: .90em;
-  font-weight: 400;
+  font-weight: 200;
   font-style: normal;
   line-height: 1.333333em;
   letter-spacing: 0.0125em;
