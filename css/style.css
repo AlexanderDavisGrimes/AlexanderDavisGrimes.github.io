@@ -176,11 +176,6 @@ header::after {
   background: #ffffff;
 }
 
-a {
-  text-decoration: none;
-  /*No underlining */
-}
-
 a :visited {
   /* visited link */
   color: #ffffff;
@@ -647,7 +642,7 @@ footer {
   .hero-title {
     color: #000000;
     display: block;
-    font-size: 10vw;
+    font-size: 180px;
     letter-spacing: 0em;
     line-height: 0.9em;
     margin-bottom: 0;
@@ -935,6 +930,28 @@ footer {
   Large devices (1024px or larger)
   ================================= */
 @media only screen and (min-width: 1024px) {
+  body {
+    font-size: 20px;
+    /* Sets the font size to 20px */
+  }
+
+  #hero-container {
+    padding: 200px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+  }
+
+  #about {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+  }
+  
+  /* ==============================
+  Large devices (1920px or larger)
+  ================================= */
+@media only screen and (min-width: 1920px) {
   body {
     font-size: 20px;
     /* Sets the font size to 20px */
