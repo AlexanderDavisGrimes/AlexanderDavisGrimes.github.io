@@ -681,6 +681,12 @@ footer {
     max-width: 1200px;
     text-align: left;
   }
+  
+    .hero-title {
+    color: #000000;
+    display: block;
+    font-size: 8vw
+  }
 
   .page-titles {
     font-size: 300%;
@@ -903,7 +909,7 @@ footer {
   .hero-title {
     color: #000000;
     display: block;
-    font-size: 10vw
+    font-size: 8vw
   }
 
 
