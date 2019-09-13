@@ -682,10 +682,14 @@ footer {
     text-align: left;
   }
   
-    .hero-title {
+  .hero-title {
     color: #000000;
     display: block;
     font-size: 8vw
+  }
+  
+  .hero-subtitle {
+  font-size: 4vw;
   }
 
   .page-titles {
@@ -911,7 +915,6 @@ footer {
     display: block;
     font-size: 8vw
   }
-
 
   #about {
     margin-left: auto;
