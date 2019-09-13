@@ -924,10 +924,10 @@ footer {
 }
 
 /* ==============================
-  Large devices (1900)
+  Large devices (1900 or larger)
   ================================= */
 
-@media only screen and (max-width: 1900px) {
+@media only screen and (min-width: 1900px) {
   body {
     font-size: 20px;
     /* Sets the font size to 20px */
