@@ -946,6 +946,19 @@ footer {
     margin-right: auto;
     overflow: hidden;
   }
+  
+   .hero-title {
+  color: #000000;
+  display: block;
+  font-size: 8vw;
+  letter-spacing: 0em;
+  line-height: 0.9em;
+  margin-bottom: 0;
+  max-width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 
   #about {
     margin-left: auto;
