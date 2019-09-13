@@ -272,7 +272,7 @@ h5 {
 
 /* Hero/Body of splash page */
 #hero-container {
-  padding: 75px 10px;
+  padding: 65px 10px;
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
@@ -282,7 +282,7 @@ h5 {
 .hero-title {
   color: #000000;
   display: block;
-  font-size: 14vw;
+  font-size: 45px;
   letter-spacing: 0em;
   line-height: 0.9em;
   margin-bottom: 0;
@@ -292,7 +292,7 @@ h5 {
 }
 
 .hero-subtitle {
-  font-size: 10vw;
+  font-size: 30px;
   color: #FFFFFF;
   position: relative;
   z-index: -1;
@@ -647,7 +647,6 @@ footer {
   .hero-title {
     color: #000000;
     display: block;
-    font-size: 9vw;
     letter-spacing: 0em;
     line-height: 0.9em;
     margin-bottom: 0;
@@ -659,7 +658,6 @@ footer {
   
 
   .hero-subtitle {
-    font-size: 4vw;
     color: #FFFFFF;
     position: relative;
     z-index: 1;
@@ -942,7 +940,6 @@ footer {
   }
 
   #hero-container {
-    font-size: 180px;
     padding: 200px 20px;
     margin-left: auto;
     margin-right: auto;
