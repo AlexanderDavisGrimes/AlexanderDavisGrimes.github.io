@@ -416,6 +416,19 @@ a {
   padding: 0 20px;
 }
 
+.text-container-1 {
+  font-size: .90em;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1.333333em;
+  letter-spacing: 0.0125em;
+  text-transform: none;
+  color: #000000;
+  margin-top: 0.67em;
+  max-width: 1200px;
+  padding: 0 20px;
+}
+
 .magaz-title {
   font-size: 22px;
   text-align: center;
@@ -682,13 +695,18 @@ footer {
     max-width: 1200px;
     text-align: left;
   }
-  
+
+  .text-container-1 {
+    font-size: .99em;
+    max-width: 1200px;
+  }
+
   .hero-title {
     color: #000000;
     display: block;
     font-size: 8vw
   }
-  
+
   .hero-subtitle {
     font-size: 4vw;
   }
@@ -910,13 +928,13 @@ footer {
     font-size: 20px;
     /* Sets the font size to 20px */
   }
-  
+
   .hero-title {
     color: #000000;
     display: block;
     font-size: 8vw
   }
-  
+
    .hero-subtitle {
     font-size: 4vw;
   }
@@ -937,12 +955,16 @@ footer {
     font-size: 20px;
     /* Sets the font size to 20px */
   }
-  
+
   .hero-title {
     color: #000000;
     display: block;
     font-size: 6vw
   }
+
+  .hero-subtitle {
+   font-size: 3vw;
+ }
 
   #about {
     margin-left: auto;
