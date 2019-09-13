@@ -290,6 +290,7 @@ h5 {
   position: relative;
   text-align: center;
   text-transform: uppercase;
+  z-index: -1;
 }
 
 .hero-subtitle {
@@ -689,7 +690,7 @@ footer {
   }
   
   .hero-subtitle {
-  font-size: 4vw;
+    font-size: 4vw;
   }
 
   .page-titles {
@@ -936,7 +937,7 @@ footer {
   .hero-title {
     color: #000000;
     display: block;
-    font-size: 8vw
+    font-size: 6vw
   }
 
   #about {
