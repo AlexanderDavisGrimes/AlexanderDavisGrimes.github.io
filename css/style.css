@@ -946,54 +946,6 @@ footer {
     margin-right: auto;
     overflow: hidden;
   }
-  
-   .hero-title {
-  color: #000000;
-  display: block;
-  font-size: 8vw;
-  letter-spacing: 0em;
-  line-height: 0.9em;
-  margin-bottom: 0;
-  max-width: 100%;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-
-  #about {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 1200px;
-  }
-  
-  /* ==============================
-  Large devices (1920px or larger)
-  ================================= */
-@media only screen and (min-width: 1920px) {
-  body {
-    font-size: 20px;
-    /* Sets the font size to 20px */
-  }
-
-  #hero-container {
-    font-size: 180px;
-    padding: 200px 20px;
-    margin-left: auto;
-    margin-right: auto;
-    overflow: hidden;
-  }
-  
-  .hero-title {
-  color: #000000;
-  display: block;
-  font-size: 8vw;
-  letter-spacing: 0em;
-  line-height: 0.9em;
-  margin-bottom: 0;
-  max-width: 100%;
-  text-align: center;
-  text-transform: uppercase;
-}
 
   #about {
     margin-left: auto;
