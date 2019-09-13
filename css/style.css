@@ -899,6 +899,12 @@ footer {
     font-size: 20px;
     /* Sets the font size to 20px */
   }
+  
+  .hero-title {
+    color: #000000;
+    display: block;
+    font-size: 10vw
+  }
 
 
   #about {
