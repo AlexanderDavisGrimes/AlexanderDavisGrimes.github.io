@@ -916,6 +916,10 @@ footer {
     display: block;
     font-size: 8vw
   }
+  
+   .hero-subtitle {
+    font-size: 4vw;
+  }
 
   #about {
     margin-left: auto;
