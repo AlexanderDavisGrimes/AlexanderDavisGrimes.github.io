@@ -282,7 +282,7 @@ h5 {
 .hero-title {
   color: #000000;
   display: block;
-  font-size: 14vw;
+  font-size: 12vw;
   letter-spacing: 0em;
   line-height: 0.9em;
   margin-bottom: 0;
@@ -293,7 +293,7 @@ h5 {
 }
 
 .hero-subtitle {
-  font-size: 10vw;
+  font-size: 9vw;
   color: #FFFFFF;
   position: relative;
   z-index: 1;
@@ -659,7 +659,7 @@ footer {
   }
 
   .hero-subtitle {
-    font-size: 4vw;
+    font-size: 6vw;
     color: #FFFFFF;
     position: relative;
     z-index: 1;
@@ -952,7 +952,7 @@ footer {
   .hero-title {
     color: #000000;
     display: block;
-    font-size: 10vw;
+    font-size: 8vw;
     letter-spacing: 0em;
     line-height: 0.9em;
     margin-bottom: 0;
@@ -963,7 +963,7 @@ footer {
   }
 
   .hero-subtitle {
-    font-size: 4vw;
+    font-size: 6vw;
     color: #FFFFFF;
     position: relative;
     z-index: 1;
