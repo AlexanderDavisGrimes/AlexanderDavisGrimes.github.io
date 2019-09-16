@@ -743,7 +743,19 @@ footer {
     margin-bottom: 0.67em;
     text-align: center;
   }
+  
+  .sr-button {
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
 
+  .small-button {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+  
+  
   .col-md-6 {
     width: 50%;
   }
