@@ -209,6 +209,12 @@ button:hover {
   box-shadow: 0 2px 14px 0 rgba(0, 0, 0, 0.14);
 }
 
+hr {
+    box-sizing: content-box;
+    height: 0;
+    /* overflow: visible; */
+}
+
 /* Header Styling */
 h1 {
   font-size: 50px;
