@@ -212,7 +212,7 @@ button:hover {
 hr {
     box-sizing: content-box;
     height: 0;
-    /* overflow: visible; */
+    overflow: hidden; 
 }
 
 /* Header Styling */
