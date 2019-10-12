@@ -24,8 +24,8 @@ body {
   /* Sets the font size to 18px */
   font-weight: 500;
   /* Sets the font weight to 500 */
-  line-height: 1.6;
-  /* Sets the line-height to 1.6 * the font-size */
+  line-height: 1.75;
+  /* Sets the line-height to 1.75 * the font-size */
   color: #000000;
   width: auto;
   overflow-x: hidden;
