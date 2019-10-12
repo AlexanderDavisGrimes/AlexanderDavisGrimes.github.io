@@ -441,6 +441,7 @@ a {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
+  padding: 0 20px;
 }
 
 .indeed-title1 {
@@ -741,6 +742,7 @@ footer {
     text-align: left;
     text-transform: uppercase;
     letter-spacing: 2px;
+    padding: 0 20px;
   }
   
   .indeed-title1 {
