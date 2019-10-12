@@ -209,11 +209,6 @@ button:hover {
   box-shadow: 0 2px 14px 0 rgba(0, 0, 0, 0.14);
 }
 
-hr {
-    box-sizing: content-box;
-    height: 0;
-    overflow: hidden; 
-}
 
 /* Header Styling */
 h1 {
@@ -446,7 +441,6 @@ a {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
-  padding: 0 20px;
 }
 
 .subtitle {
