@@ -258,6 +258,18 @@ h5 {
   margin-top: 0.67em;
 }
 
+p {
+  font-family: "Lato";
+  font-weight: 200;
+  font-size: 18px;
+  font-style: normal;
+  line-height: 1.333333em;
+  text-transform: none;
+  text-align: left;
+  color: #000000;
+  margin-top: 0.67em;
+}
+
 
 .page-titles {
   font-size: 200%;
