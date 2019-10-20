@@ -472,10 +472,11 @@ margin-bottom: 0.67em;
 text-align: center;
 }
 
-/* Contact Web Form Styling */
+/* 
+Web Form Styling */
 .contact-container {
 padding: 75px 20px;
-max-width: 900px;
+max-width: 1000px;
 margin-left: auto;
 margin-right: auto;
 }
