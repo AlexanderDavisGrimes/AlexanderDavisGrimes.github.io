@@ -351,6 +351,7 @@ position: relative;
 top: 50%;
 margin-left: 10px;
 margin-right: 10px;
+z-index: -5;
 }
 
 .card-title {
@@ -663,6 +664,7 @@ img {
     top: 65%;
     margin-left: 36px;
     margin-right: 36px;
+    z-index: -5;
   }
 
   .card-title {
