@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6204px" height="1119px" viewBox="0 0 6204 1119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>user_personas_title</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="123.970921%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#21D0F1" offset="0%"></stop>
+            <stop stop-color="#44E9D6" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-2" font-family="Lato-Black, Lato" font-size="640" font-weight="700" fill="#4A4A4A">
+            <tspan x="2440" y="880">PERSONAS</tspan>
+        </text>
+        <filter x="-0.2%" y="-0.7%" width="100.4%" height="101.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-4" font-family="Lato-Black, Lato" font-size="640" font-weight="700" fill="#4A4A4A">
+            <tspan x="481" y="632">USER </tspan>
+        </text>
+        <filter x="-0.4%" y="-0.6%" width="100.8%" height="101.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="magazINK" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="user_personas_title">
+            <polygon id="Fill-1" fill="url(#linearGradient-1)" points="0 1119 6204 1119 6204 0 0 0"></polygon>
+            <g id="PERSONAS" fill="#4A4A4A" fill-opacity="1">
+                <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+                <use xlink:href="#text-2"></use>
+            </g>
+            <g id="USER" fill="#4A4A4A" fill-opacity="1">
+                <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                <use xlink:href="#text-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>
